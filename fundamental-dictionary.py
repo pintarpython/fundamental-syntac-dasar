@@ -26,4 +26,4 @@ print(f"Driver #1 {data_server_gojek['driver_list'][0]}")
 print(f"Driver #3 {data_server_gojek['driver_list'][2]}")
 
 print('\nCara mengambil data jarak terdekat')
-print(f"jarak driver terdekat {data_server_gojek['driver_list'][0]['jarak']} meter")
+print(f"jarak driver terdekat {data_server_gojek['driver_list'][0]['jarak']} meters")
